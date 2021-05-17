@@ -9,4 +9,4 @@
 
 
 ## 1. Quick Add Next
-![Tip Quick Add Next](R-Tips/Tip001/tip1_Trim.gif)
+![Tip Quick Add Next](Tip001/tip1_Trim.gif)
