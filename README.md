@@ -4,6 +4,7 @@
 - [2. Shortcut comentarios](#comentarios)
 
 ## 1. Quick Add Next
-![Tip Quick Add Next](Tips/Tip001/tip1_Trim.gif)
+![Quick Add Next](Tips/Tip001/tip1_Trim.gif)
 ## 2. Shorcut comentarios
-![Tip Quick Add Next](Tips/Tip002/tip1_Trim.gif)
+![Comentarios1](Tips/Tip002/tip2.gif)
+![Comentarios2](Tips/Tip002/tip2.png)
