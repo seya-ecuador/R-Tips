@@ -1,0 +1,26 @@
+---
+title: "Pizarra"
+author: "SEYA"
+date: "9/12/2020"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+# Pizarra en R
+
+```{r}
+library(fabricerin)
+ 
+fabric_drawing(cid = "Pizarra_ID", #Id de la pizarra 
+                cwidth = 1000, #acho de la pizarra
+                cheight = 400, #alto de la pizarra
+                cfill = "#47901E", #color de la pizarra
+                drawingWidth = 3, #ancho de la línea para graficar
+                gumSize = 40 #Tamaño del borrardor
+                )
+
+```
+
