@@ -15,7 +15,7 @@ Elaboración: [*@SEYA_Ecu*](https://twitter.com/SEYA_Ecu),  [*@dhecheverria*](ht
 - [12. Extracción de ecuaciones de modelos econométricos/estocásticos](#ecuaciones-modelos)
 - [13. Comprobación de modelos econométricos/estocásticos](#comprobación-modelos)
 - [14. Comparación de desempeño de modelos econométricos/estocásticos](#comparación-modelos)
-
+- [15. Shortcut sección de código](#shorcutsecciones)
 ## 1. Quick Add Next <a name="Qick-Add-Next"></a>
 ![Quick Add Next](Tips/Tip001/tip1_Trim.gif)
 - [↩️**Regresar al índice**](#índice)
@@ -101,7 +101,7 @@ Con *ctrl* + ⬆ se puede revisar comandos ejecutados anteriormente
 ![comparación3](Tips/Tip014/Tip14_3.PNG)
 - [↩️**Regresar al índice**](#índice)
 
-## 15. Shortcut sección de código <a name="comparación-modelos"></a>
+## 15. Shortcut sección de código <a name="shorcutsecciones"></a>
 ![sección1](Tips/Tip015/Tip15.gif)
 ![sección2](Tips/Tip015/Tip15.png)
 ### [Material de revisión](https://bookdown.org/gboccardo/manual-ED-UCH/)
