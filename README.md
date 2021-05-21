@@ -101,3 +101,8 @@ Con *ctrl* + ⬆ se puede revisar comandos ejecutados anteriormente
 ![comparación3](Tips/Tip014/Tip14_3.PNG)
 - [↩️**Regresar al índice**](#índice)
 
+## 15. Shortcut sección de código <a name="comparación-modelos"></a>
+![sección1](Tips/Tip015/Tip15.gif)
+![sección2](Tips/Tip015/Tip15.png)
+### [Material de revisión](https://bookdown.org/gboccardo/manual-ED-UCH/)
+- [↩️**Regresar al índice**](#índice)
