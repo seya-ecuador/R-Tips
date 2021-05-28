@@ -109,9 +109,9 @@ Con *ctrl* + ⬆ se puede revisar comandos ejecutados anteriormente
 - [↩️**Regresar al índice**](#índice)
 
 ## 16. Tablas de contingencia <a name="tablascontingencia"></a>
-![tablasc1](Tips/Tip016/Tip16_1.png)
-![tablasc2](Tips/Tip016/Tip16_2.png)
-![tablasc3](Tips/Tip016/Tip16_3.png)
-![tablasc4](Tips/Tip016/Tip16_4.png)
-### [Script Tablas de contingencia](https://bookdown.org/gboccardo/manual-ED-UCH/)
+![tablasc1](Tips/Tip016/Tip16_1.PNG)
+![tablasc2](Tips/Tip016/Tip16_2.PNG)
+![tablasc3](Tips/Tip016/Tip16_3.PNG)
+![tablasc4](Tips/Tip016/Tip16_4.PNG)
+### [Script Tablas de contingencia](https://github.com/seya-ecuador/R-Tips/blob/main/Tips/Tip016/SEYA250521_TablasContingencia.R)
 - [↩️**Regresar al índice**](#índice)
