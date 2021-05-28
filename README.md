@@ -16,10 +16,11 @@ Elaboración: [*@SEYA_Ecu*](https://twitter.com/SEYA_Ecu),  [*@dhecheverria*](ht
 - [13. Comprobación de modelos econométricos/estocásticos](#comprobación-modelos)
 - [14. Comparación de desempeño de modelos econométricos/estocásticos](#comparación-modelos)
 - [15. Shortcut sección de código](#shorcutsecciones)
+- [16. Tablas de contingencia](#tablascontingencia)
 ## 1. Quick Add Next <a name="Qick-Add-Next"></a>
 ![Quick Add Next](Tips/Tip001/tip1_Trim.gif)
 - [↩️**Regresar al índice**](#índice)
-- 
+
 ## 2. Shotrcut comentarios <a name="comentarios"></a>
 ![comentarios1](Tips/Tip002/tip2.gif)
 ![comentarios2](Tips/Tip002/tip2.png)
@@ -105,4 +106,12 @@ Con *ctrl* + ⬆ se puede revisar comandos ejecutados anteriormente
 ![sección1](Tips/Tip015/Tip15.gif)
 ![sección2](Tips/Tip015/Tip15.png)
 ### [Material de revisión](https://bookdown.org/gboccardo/manual-ED-UCH/)
+- [↩️**Regresar al índice**](#índice)
+
+## 16. Tablas de contingencia <a name="tablascontingencia"></a>
+![tablasc1](Tips/Tip016/Tip16_1.png)
+![tablasc2](Tips/Tip016/Tip16_2.png)
+![tablasc3](Tips/Tip016/Tip16_3.png)
+![tablasc4](Tips/Tip016/Tip16_4.png)
+### [Script Tablas de contingencia](https://bookdown.org/gboccardo/manual-ED-UCH/)
 - [↩️**Regresar al índice**](#índice)
