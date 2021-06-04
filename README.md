@@ -120,6 +120,6 @@ Con *ctrl* + ⬆ se puede revisar comandos ejecutados anteriormente
 - [↩️**Regresar al índice**](#índice)
 
 ## 17. Gráficos interactivos con plotly <a name="ggplotly"></a>
-![ggplotly1](Tips/Tip017/Tip17_plotly.gif)
+![ggplotly1](Tips/Tip017/tip017_plotly.gif)
 ### [Script gráficos interactivos con plotly](https://github.com/seya-ecuador/R-Tips/blob/main/Tips/Tip017/SEYA250521_plotly.R)
 - [↩️**Regresar al índice**](#índice)
