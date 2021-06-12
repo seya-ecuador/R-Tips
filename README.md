@@ -18,6 +18,7 @@ Elaboración: [*@SEYA_Ecu*](https://twitter.com/SEYA_Ecu),  [*@dhecheverria*](ht
 - [15. Shortcut sección de código](#shorcutsecciones)
 - [16. Tablas de contingencia](#tablascontingencia)
 - [17. Gráficos interactivos con plotly](#ggplotly)
+- [18. Elaboración de Currículums con RMarkdown](#rmarkdown)
 
 
 ## 1. Quick Add Next <a name="Qick-Add-Next"></a>
@@ -122,4 +123,13 @@ Con *ctrl* + ⬆ se puede revisar comandos ejecutados anteriormente
 ## 17. Gráficos interactivos con plotly <a name="ggplotly"></a>
 ![ggplotly1](Tips/Tip017/tip017_plotly.gif)
 ### [Script gráficos interactivos con plotly](https://github.com/seya-ecuador/R-Tips/blob/main/Tips/Tip017/SEYA250521_plotly.R)
+- [↩️**Regresar al índice**](#índice)
+
+## 18. Elaboración de Currículums con RMarkdown <a name="rmarkdown"></a>
+![rmarkdown1](Tips/Tip018/tip18.png)
+![rmarkdown2](Tips/Tip018/Tip18.gif)
+![rmarkdown3](Tips/Tip018/MiCurriculum.pdf)
+### [Currículum en .pdf](https://github.com/seya-ecuador/R-Tips/blob/main/Tips/Tip018/MiCurriculum.pdf)
+### [Archivo rmarkdown](https://github.com/seya-ecuador/R-Tips/blob/main/Tips/Tip018/MiCurriculum.Rmd)
+### [Script (librerías y códigos de instalación)](https://github.com/seya-ecuador/R-Tips/blob/main/Tips/Tip018/SEYAcurriculum.R)
 - [↩️**Regresar al índice**](#índice)
