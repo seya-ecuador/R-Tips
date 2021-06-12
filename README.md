@@ -126,9 +126,8 @@ Con *ctrl* + ⬆ se puede revisar comandos ejecutados anteriormente
 - [↩️**Regresar al índice**](#índice)
 
 ## 18. Elaboración de Currículums con RMarkdown <a name="rmarkdown"></a>
-![rmarkdown1](Tips/Tip018/tip18.png)
-![rmarkdown2](Tips/Tip018/Tip18.gif)
-![rmarkdown3](Tips/Tip018/MiCurriculum.pdf)
+![rmarkdown1](Tips/Tip018/tip_18.png)
+![rmarkdown2](Tips/Tip018/Tip_18.gif)
 ### [Currículum en .pdf](https://github.com/seya-ecuador/R-Tips/blob/main/Tips/Tip018/MiCurriculum.pdf)
 ### [Archivo rmarkdown](https://github.com/seya-ecuador/R-Tips/blob/main/Tips/Tip018/MiCurriculum.Rmd)
 ### [Script (librerías y códigos de instalación)](https://github.com/seya-ecuador/R-Tips/blob/main/Tips/Tip018/SEYAcurriculum.R)
