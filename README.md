@@ -19,6 +19,7 @@ Elaboración: [*@SEYA_Ecu*](https://twitter.com/SEYA_Ecu),  [*@dhecheverria*](ht
 - [16. Tablas de contingencia](#tablascontingencia)
 - [17. Gráficos interactivos con plotly](#ggplotly)
 - [18. Elaboración de Currículums con RMarkdown](#rmarkdown)
+- [19. Estimación robusta y estimación por intervalos con jtools](#jtools)
 
 
 ## 1. Quick Add Next <a name="Qick-Add-Next"></a>
@@ -131,4 +132,9 @@ Con *ctrl* + ⬆ se puede revisar comandos ejecutados anteriormente
 ### [Currículum en .pdf](https://github.com/seya-ecuador/R-Tips/blob/main/Tips/Tip018/MiCurriculum.pdf)
 ### [Archivo rmarkdown](https://github.com/seya-ecuador/R-Tips/blob/main/Tips/Tip018/MiCurriculum.Rmd)
 ### [Script (librerías y códigos de instalación)](https://github.com/seya-ecuador/R-Tips/blob/main/Tips/Tip018/SEYAcurriculum.R)
+
+## 18. Elaboración de Currículums con RMarkdown <a name="jtools"></a>
+![jtools1](Tips/Tip019/Tip19_1.PNG)
+![jtools2](Tips/Tip019/Tip19_2.PNG)
+### [Script estimación robusta y estimación por intervalos con jtools](https://github.com/seya-ecuador/R-Tips/blob/main/Tips/Tip019/SEYA_EstimacionRobusta_Intervalos.R)
 - [↩️**Regresar al índice**](#índice)
