@@ -20,7 +20,7 @@ Elaboración: [*@SEYA_Ecu*](https://twitter.com/SEYA_Ecu),  [*@dhecheverria*](ht
 - [17. Gráficos interactivos con plotly](#ggplotly)
 - [18. Elaboración de Currículums con RMarkdown](#rmarkdown)
 - [19. Estimación robusta y estimación por intervalos con jtools](#jtools)
-
+- [20. Estilo de codificación](#styler)
 
 ## 1. Quick Add Next <a name="Qick-Add-Next"></a>
 ![Quick Add Next](Tips/Tip001/tip1_Trim.gif)
@@ -133,8 +133,15 @@ Con *ctrl* + ⬆ se puede revisar comandos ejecutados anteriormente
 ### [Archivo rmarkdown](https://github.com/seya-ecuador/R-Tips/blob/main/Tips/Tip018/MiCurriculum.Rmd)
 ### [Script (librerías y códigos de instalación)](https://github.com/seya-ecuador/R-Tips/blob/main/Tips/Tip018/SEYAcurriculum.R)
 
-## 18. Elaboración de Currículums con RMarkdown <a name="jtools"></a>
+## 19. Elaboración de Currículums con RMarkdown <a name="jtools"></a>
 ![jtools1](Tips/Tip019/Tip19_1.PNG)
 ![jtools2](Tips/Tip019/Tip19_2.PNG)
 ### [Script estimación robusta y estimación por intervalos con jtools](https://github.com/seya-ecuador/R-Tips/blob/main/Tips/Tip019/SEYA_EstimacionRobusta_Intervalos.R)
+- [↩️**Regresar al índice**](#índice)
+
+## 20. Estilo de codificación <a name="styler"></a>
+![styler1](Tips/Tip020/tip20_styler.png)
+![styler2](Tips/Tip020/tip20.gif)
+### [Script sin modificar](https://github.com/seya-ecuador/R-Tips/blob/main/Tips/Tip020/SEYA_styler.R)
+### [Script modificado con styler](https://github.com/seya-ecuador/R-Tips/blob/main/Tips/Tip020/SEYA_styler2.R)
 - [↩️**Regresar al índice**](#índice)
