@@ -144,4 +144,5 @@ Con *ctrl* + ⬆ se puede revisar comandos ejecutados anteriormente
 ![styler2](Tips/Tip020/tip20.gif)
 ### [Script sin modificar](https://github.com/seya-ecuador/R-Tips/blob/main/Tips/Tip020/SEYA_styler.R)
 ### [Script modificado con styler](https://github.com/seya-ecuador/R-Tips/blob/main/Tips/Tip020/SEYA_styler2.R)
+### [The tidyverse style guide (Hadley Wickham)](https://style.tidyverse.org/index.html)
 - [↩️**Regresar al índice**](#índice)
