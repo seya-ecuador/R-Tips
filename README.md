@@ -153,3 +153,5 @@ Con *ctrl* + ⬆ se puede revisar comandos ejecutados anteriormente
 ![Likert1](Tips/Tip021/tip21.png)
 ### [Script gráficas de escalas de Likert](https://github.com/seya-ecuador/R-Tips/blob/main/Tips/Tip021/SEYA_tip21.R)
 ### [Fuente (Daniel Lüdecke)](https://cran.r-project.org/web/packages/sjPlot/vignettes/plot_likert_scales.html)
+- [↩️**Regresar al índice**](#índice)
+- 
