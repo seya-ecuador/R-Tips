@@ -21,6 +21,8 @@ Elaboración: [*@SEYA_Ecu*](https://twitter.com/SEYA_Ecu),  [*@dhecheverria*](ht
 - [18. Elaboración de Currículums con RMarkdown](#rmarkdown)
 - [19. Estimación robusta y estimación por intervalos con jtools](#jtools)
 - [20. Estilo de codificación](#styler)
+- [21. Gráfica de escalas de Likert](#Likert)
+
 
 ## 1. Quick Add Next <a name="Qick-Add-Next"></a>
 ![Quick Add Next](Tips/Tip001/tip1_Trim.gif)
@@ -146,3 +148,8 @@ Con *ctrl* + ⬆ se puede revisar comandos ejecutados anteriormente
 ### [Script modificado con styler](https://github.com/seya-ecuador/R-Tips/blob/main/Tips/Tip020/SEYA_styler2.R)
 ### [The tidyverse style guide (Hadley Wickham)](https://style.tidyverse.org/index.html)
 - [↩️**Regresar al índice**](#índice)
+
+## 21. Gráfica de escalas de Likert <a name="Likert"></a>
+![Likert1](Tips/Tip021/tip21.png)
+### [Script gráficas de escalas de Likert](https://github.com/seya-ecuador/R-Tips/blob/main/Tips/Tip021/SEYA_tip21.R)
+### [Fuente (Daniel Lüdecke): ](https://cran.r-project.org/web/packages/sjPlot/vignettes/plot_likert_scales.html)
