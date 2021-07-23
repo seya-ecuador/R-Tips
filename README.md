@@ -22,6 +22,7 @@ Elaboración: [*@SEYA_Ecu*](https://twitter.com/SEYA_Ecu),  [*@dhecheverria*](ht
 - [19. Estimación robusta y estimación por intervalos con jtools](#jtools)
 - [20. Estilo de codificación](#styler)
 - [21. Gráfica de escalas de Likert](#Likert)
+- [22. Gráficas con estilo de BBC](#BBC)
 
 
 ## 1. Quick Add Next <a name="Qick-Add-Next"></a>
@@ -154,4 +155,11 @@ Con *ctrl* + ⬆ se puede revisar comandos ejecutados anteriormente
 ### [Script gráficas de escalas de Likert](https://github.com/seya-ecuador/R-Tips/blob/main/Tips/Tip021/SEYA_tip21.R)
 ### [Fuente (Daniel Lüdecke)](https://cran.r-project.org/web/packages/sjPlot/vignettes/plot_likert_scales.html)
 - [↩️**Regresar al índice**](#índice)
-- 
+
+## 22. Gráficas con estilo de BBC <a name="BBC"></a>
+![BBC1](Tips/Tip022/Tip22_1.PNG)
+![BBC2](Tips/Tip022/Tip22_2.PNG)
+### [Script gráficas de escalas de Likert](https://github.com/seya-ecuador/R-Tips/blob/main/Tips/Tip022/SEYA_BBC.R)
+### [Fuente (BBC R cookbook)](https://bbc.github.io/rcookbook/#do_something_else_entirely)
+- [↩️**Regresar al índice**](#índice)
+
