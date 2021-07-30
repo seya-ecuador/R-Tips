@@ -23,6 +23,7 @@ Elaboración: [*@SEYA_Ecu*](https://twitter.com/SEYA_Ecu),  [*@dhecheverria*](ht
 - [20. Estilo de codificación](#styler)
 - [21. Gráfica de escalas de Likert](#Likert)
 - [22. Gráficas con estilo de BBC](#BBC)
+- [23. Importación y exportación de datos con rio](#rio)
 
 
 ## 1. Quick Add Next <a name="Qick-Add-Next"></a>
@@ -163,3 +164,7 @@ Con *ctrl* + ⬆ se puede revisar comandos ejecutados anteriormente
 ### [Fuente (BBC R cookbook)](https://bbc.github.io/rcookbook/#do_something_else_entirely)
 - [↩️**Regresar al índice**](#índice)
 
+## 23. Importación y exportación de datos con rio <a name="rio"></a>
+![rio1](Tips/Tip023/tip23.png)
+### [Fuente ('Package rio')](https://cran.r-project.org/web/packages/rio/rio.pdf)
+- [↩️**Regresar al índice**](#índice)
