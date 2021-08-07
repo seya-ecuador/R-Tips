@@ -24,7 +24,7 @@ Elaboración: [*@SEYA_Ecu*](https://twitter.com/SEYA_Ecu),  [*@dhecheverria*](ht
 - [21. Gráfica de escalas de Likert](#Likert)
 - [22. Gráficas con estilo de BBC](#BBC)
 - [23. Importación y exportación de datos con rio](#rio)
-
+- [24. Reportar y citar pauetes con report](#report)
 
 ## 1. Quick Add Next <a name="Qick-Add-Next"></a>
 ![Quick Add Next](Tips/Tip001/tip1_Trim.gif)
@@ -168,3 +168,10 @@ Con *ctrl* + ⬆ se puede revisar comandos ejecutados anteriormente
 ![rio1](Tips/Tip023/tip23.png)
 ### [Fuente ('Package rio')](https://cran.r-project.org/web/packages/rio/rio.pdf)
 - [↩️**Regresar al índice**](#índice)
+
+## 24. Reportar y citar pauetes con report <a name="report"></a>
+![report1](Tips/Tip024/tip24_1.PNG)
+![report1](Tips/Tip024/tip24_2.PNG)
+### [Script ejemplo report](https://github.com/seya-ecuador/R-Tips/blob/main/Tips/Tip024/SEYA_report.R)
+- [↩️**Regresar al índice**](#índice)
+
