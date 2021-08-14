@@ -25,6 +25,8 @@ Elaboración: [*@SEYA_Ecu*](https://twitter.com/SEYA_Ecu),  [*@dhecheverria*](ht
 - [22. Gráficas con estilo de BBC](#BBC)
 - [23. Importación y exportación de datos con rio](#rio)
 - [24. Reportar y citar pauetes con report](#report)
+- [25. Web scraping con rvest](#rvest)
+
 
 ## 1. Quick Add Next <a name="Qick-Add-Next"></a>
 ![Quick Add Next](Tips/Tip001/tip1_Trim.gif)
@@ -175,3 +177,10 @@ Con *ctrl* + ⬆ se puede revisar comandos ejecutados anteriormente
 ### [Script ejemplo report](https://github.com/seya-ecuador/R-Tips/blob/main/Tips/Tip024/SEYA_report.R)
 - [↩️**Regresar al índice**](#índice)
 
+
+## 25. Web scraping con rvest <a name="rvest"></a>
+![rvest](Tips/Tip025/Tip25.gif)
+### [Script ejemplo rvest](https://github.com/seya-ecuador/R-Tips/blob/main/Tips/Tip025/SEYA_rvest.R)
+### [Extensión SelectorGadget (Google Chrome)](https://chrome.google.com/webstore/detail/selectorgadget/mhjhnkcfbdhnjickkkdbjoemdmbfginb)
+### [Más sobre rvest](https://rvest.tidyverse.org/)
+- [↩️**Regresar al índice**](#índice)
