@@ -26,6 +26,8 @@ Elaboración: [*@SEYA_Ecu*](https://twitter.com/SEYA_Ecu),  [*@dhecheverria*](ht
 - [23. Importación y exportación de datos con rio](#rio)
 - [24. Reportar y citar pauetes con report](#report)
 - [25. Web scraping con rvest](#rvest)
+- [26. Análisis de código estático para R con lintr](#lintr)
+
 
 
 ## 1. Quick Add Next <a name="Qick-Add-Next"></a>
@@ -183,4 +185,11 @@ Con *ctrl* + ⬆ se puede revisar comandos ejecutados anteriormente
 ### [Script ejemplo rvest](https://github.com/seya-ecuador/R-Tips/blob/main/Tips/Tip025/SEYA_rvest.R)
 ### [Extensión SelectorGadget (Google Chrome)](https://chrome.google.com/webstore/detail/selectorgadget/mhjhnkcfbdhnjickkkdbjoemdmbfginb)
 ### [Más sobre rvest](https://rvest.tidyverse.org/)
+- [↩️**Regresar al índice**](#índice)
+
+
+## 26. Análisis de código estático para R con lintr <a name="lintr"></a>
+![lintr](Tips/Tip026/Tip26.gif)
+### [Script ejemplo lintr](https://github.com/seya-ecuador/R-Tips/blob/main/Tips/Tip026/SEYA_lintr.R)
+### [Más sobre lintr](https://cran.r-project.org/web/packages/lintr/readme/README.html)
 - [↩️**Regresar al índice**](#índice)
