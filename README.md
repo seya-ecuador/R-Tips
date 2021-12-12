@@ -1,5 +1,5 @@
 # R-Tips
-Elaboración: [*@SEYA_Ecu*](https://twitter.com/SEYA_Ecu),  [*@dhecheverria*](https://twitter.com/dhecheverria) y [*@byfcl98*](https://twitter.com/byfcl3)
+Elaboración: [*@SEYA_Ecu*](https://twitter.com/SEYA_Ecu),  [*@dhecheverria*](https://twitter.com/dhecheverria), [*@byfcl98*](https://twitter.com/byfcl3) y [*@jeaguilarc_98*](https://twitter.com/jeaguilarc_98)
 ## Índice <a name="índice"></a>
 - [1. Quick Add Next](#Qick-Add-Next)
 - [2. Shotrcut comentarios](#comentarios)
