@@ -28,7 +28,7 @@ Elaboración: [*@SEYA_Ecu*](https://twitter.com/SEYA_Ecu),  [*@dhecheverria*](ht
 - [25. Web scraping con rvest](#rvest)
 - [26. Análisis de código estático para R con lintr](#lintr)
 - [27. Cargar paquetes con pacman](#pacman)
-
+- [28. Cambiar tema de RStudio](#theme)
 
 
 ## 1. Quick Add Next <a name="Qick-Add-Next"></a>
@@ -200,3 +200,10 @@ Con *ctrl* + ⬆ se puede revisar comandos ejecutados anteriormente
 ### [Script ejemplo pacman](https://github.com/seya-ecuador/R-Tips/blob/main/Tips/Tip027/SEYA_pacman.R)
 ### [Más sobre pacman](https://cran.r-project.org/web/packages/pacman/pacman.pdf)
 - [↩️**Regresar al índice**](#índice)
+
+
+## 28. Cambiar tema de RStudio <a name="theme"></a>
+![theme1](Tips/Tip028/Tip028.gif)
+### [Link a herokuapp](https://tmtheme-editor.herokuapp.com/#!/editor/theme/Abdal%20Black%20Hackers)
+- [↩️**Regresar al índice**](#índice)
+
