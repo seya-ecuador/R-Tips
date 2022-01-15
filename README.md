@@ -29,7 +29,7 @@ Elaboración: [*@SEYA_Ecu*](https://twitter.com/SEYA_Ecu),  [*@dhecheverria*](ht
 - [26. Análisis de código estático para R con lintr](#lintr)
 - [27. Cargar paquetes con pacman](#pacman)
 - [28. Cambiar tema de RStudio](#theme)
-
+- [29. Graficos con geom_text_repel](#text_repel)
 
 ## 1. Quick Add Next <a name="Qick-Add-Next"></a>
 ![Quick Add Next](Tips/Tip001/tip1_Trim.gif)
@@ -205,5 +205,12 @@ Con *ctrl* + ⬆ se puede revisar comandos ejecutados anteriormente
 ## 28. Cambiar tema de RStudio <a name="theme"></a>
 ![theme1](Tips/Tip028/Tip028.gif)
 ### [Link a herokuapp](https://tmtheme-editor.herokuapp.com/#!/editor/theme/Abdal%20Black%20Hackers)
+- [↩️**Regresar al índice**](#índice)
+
+## 29. Graficos con geom_text_repel <a name="text_repel"></a>
+![text_repel](Tips/Tip029/Tip29_1.PNG)
+![text_repe2](Tips/Tip029/Tip29_2.PNG)
+![text_repe3](Tips/Tip029/Tip29_2.PNG)
+### [Script ejemplo geom_text_repel](https://github.com/seya-ecuador/R-Tips/blob/main/Tips/Tip029/SEYA150122.R)
 - [↩️**Regresar al índice**](#índice)
 
