@@ -30,6 +30,7 @@ Elaboración: [*@SEYA_Ecu*](https://twitter.com/SEYA_Ecu),  [*@dhecheverria*](ht
 - [27. Cargar paquetes con pacman](#pacman)
 - [28. Cambiar tema de RStudio](#theme)
 - [29. Graficos con geom_text_repel](#ggrepel)
+- [30. Dar formato a tablas de Rmarkdown y a comentarios de múltiples líneas de R](#beautifyR)
 
 ## 1. Quick Add Next <a name="Qick-Add-Next"></a>
 ![Quick Add Next](Tips/Tip001/tip1_Trim.gif)
@@ -214,3 +215,12 @@ Con *ctrl* + ⬆ se puede revisar comandos ejecutados anteriormente
 ### [Script ejemplo geom_text_repel](https://github.com/seya-ecuador/R-Tips/blob/main/Tips/Tip029/SEYA150122.R)
 - [↩️**Regresar al índice**](#índice)
 
+## 30. Dar formato a tablas de Rmarkdown y a comentarios de múltiples líneas de R <a name="beautifyR"></a>
+
+![beautify1](Tips/Tip030/tip30.png)
+![beautify2](Tips/Tip030/Tip030.gif)
+### [Script ejemplo beautifyR](https://github.com/seya-ecuador/R-Tips/blob/main/Tips/Tip030/SEYA200122.R)
+### [Link a beautifyR](https://rdrr.io/github/mwip/beautifyR/f/README.md)
+![imagen](https://user-images.githubusercontent.com/63426975/150658558-fa350ee3-78ec-4979-9cb7-2929c94f20d7.png)
+)
+- [↩️**Regresar al índice**](#índice)
