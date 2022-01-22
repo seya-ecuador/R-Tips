@@ -221,6 +221,4 @@ Con *ctrl* + ⬆ se puede revisar comandos ejecutados anteriormente
 ![beautify2](Tips/Tip030/Tip030.gif)
 ### [Script ejemplo beautifyR](https://github.com/seya-ecuador/R-Tips/blob/main/Tips/Tip030/SEYA200122.R)
 ### [Link a beautifyR](https://rdrr.io/github/mwip/beautifyR/f/README.md)
-![imagen](https://user-images.githubusercontent.com/63426975/150658558-fa350ee3-78ec-4979-9cb7-2929c94f20d7.png)
-)
 - [↩️**Regresar al índice**](#índice)
