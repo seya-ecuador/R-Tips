@@ -31,6 +31,7 @@ Elaboración: [*@SEYA_Ecu*](https://twitter.com/SEYA_Ecu),  [*@dhecheverria*](ht
 - [28. Cambiar tema de RStudio](#theme)
 - [29. Graficos con geom_text_repel](#ggrepel)
 - [30. Dar formato a tablas de Rmarkdown y a comentarios de múltiples líneas de R](#beautifyR)
+- [31. Visualización de gráficos con Cairo](#Cairo)
 
 ## 1. Quick Add Next <a name="Qick-Add-Next"></a>
 ![Quick Add Next](Tips/Tip001/tip1_Trim.gif)
@@ -222,3 +223,12 @@ Con *ctrl* + ⬆ se puede revisar comandos ejecutados anteriormente
 ### [Script ejemplo beautifyR](https://github.com/seya-ecuador/R-Tips/blob/main/Tips/Tip030/SEYA200122.R)
 ### [Link a beautifyR](https://rdrr.io/github/mwip/beautifyR/f/README.md)
 - [↩️**Regresar al índice**](#índice)
+
+## 31. Visualización de gráficos con Cairo <a name="Cairo"></a>
+
+![Cairo1](Tips/Tip031/Pic1.png)
+![Cairo2](Tips/Tip031/Pic2.png)
+### [Script ejemplo](https://github.com/seya-ecuador/R-Tips/blob/main/Tips/Tip031/SEYA290122.R)
+### [Link a Cairo](http://www.rforge.net/Cairo/)
+- [↩️**Regresar al índice**](#índice)
+
