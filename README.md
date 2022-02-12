@@ -32,6 +32,7 @@ Elaboración: [*@SEYA_Ecu*](https://twitter.com/SEYA_Ecu),  [*@dhecheverria*](ht
 - [29. Graficos con geom_text_repel](#ggrepel)
 - [30. Dar formato a tablas de Rmarkdown y a comentarios de múltiples líneas de R](#beautifyR)
 - [31. Visualización de gráficos con Cairo](#Cairo)
+- [32. Gráficos pictóricos con echart4r](#echart4r)
 
 ## 1. Quick Add Next <a name="Qick-Add-Next"></a>
 ![Quick Add Next](Tips/Tip001/tip1_Trim.gif)
@@ -230,5 +231,14 @@ Con *ctrl* + ⬆ se puede revisar comandos ejecutados anteriormente
 ![Cairo2](Tips/Tip031/Pic2.png)
 ### [Script ejemplo](https://github.com/seya-ecuador/R-Tips/blob/main/Tips/Tip031/SEYA290122.R)
 ### [Link a Cairo](http://www.rforge.net/Cairo/)
+- [↩️**Regresar al índice**](#índice)
+
+
+## 32. Gráficos pictóricos con echart4r <a name="echart4r"></a>
+
+![echart4r1](Tips/Tip032/pic1.png)
+![echart4r2](Tips/Tip032/pic2.png)
+### [Script ejemplo](https://github.com/seya-ecuador/R-Tips/blob/main/Tips/Tip032/SEYA050222.R)
+### [Link a echart4r](https://echarts4r.john-coene.com/)
 - [↩️**Regresar al índice**](#índice)
 
