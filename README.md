@@ -33,6 +33,7 @@ Elaboración: [*@SEYA_Ecu*](https://twitter.com/SEYA_Ecu),  [*@dhecheverria*](ht
 - [30. Dar formato a tablas de Rmarkdown y a comentarios de múltiples líneas de R](#beautifyR)
 - [31. Visualización de gráficos con Cairo](#Cairo)
 - [32. Gráficos pictóricos con echart4r](#echart4r)
+- [33. Case_when(): alternativa vectorizada general a ifelse() o if_else()](#case_when)
 
 ## 1. Quick Add Next <a name="Qick-Add-Next"></a>
 ![Quick Add Next](Tips/Tip001/tip1_Trim.gif)
@@ -240,5 +241,13 @@ Con *ctrl* + ⬆ se puede revisar comandos ejecutados anteriormente
 ![echart4r2](Tips/Tip032/pic2.png)
 ### [Script ejemplo](https://github.com/seya-ecuador/R-Tips/blob/main/Tips/Tip032/SEYA050222.R)
 ### [Link a echart4r](https://echarts4r.john-coene.com/)
+- [↩️**Regresar al índice**](#índice)
+
+
+## 33. Case_when(): alternativa vectorizada general a ifelse() o if_else() <a name="case_when"></a>
+
+![case_when1](Tips/Tip033/tip33.png)
+### [Script ejemplo](https://github.com/seya-ecuador/R-Tips/blob/main/Tips/Tip033/SEYA200222_case_when.R)
+### [Link a case_when](https://dplyr.tidyverse.org/reference/case_when.html)
 - [↩️**Regresar al índice**](#índice)
 
